@@ -2,7 +2,7 @@ Appointment Scheduling Module
 ==========================
 [![Build Status](https://travis-ci.org/openmrs/openmrs-module-appointmentscheduling.svg?branch=master)](https://travis-ci.org/openmrs/openmrs-module-appointmentscheduling)
 
-## Overview
+## Project Overview
 
 The Appointment Scheduling Module is for scheduling patient appointments and managing provider schedules. This module also allows for managing the patient queue in a clinic. This README contains information primarily pertinent to developers. If you are a user looking for user related instruction, navigate to the [Wiki page section](#wiki) of this documentation.
 
